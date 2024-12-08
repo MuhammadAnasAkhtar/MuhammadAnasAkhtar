@@ -67,7 +67,7 @@ Here are some of the **top-level projects** I’ve worked on:
 
 ---
 ## Check Out My Hugging Face Spaces ✨
-For more AI models, projects, and demos, visit my [Hugging Face Space](https://huggingface.co/ChampionANAS). 🌟
+For more AI models, projects, and demos, visit my [Hugging Face Space](https://huggingface.co/ANASAKHTAR). 🌟
 
 
 ---
