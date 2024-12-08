@@ -2,7 +2,7 @@
 
 **Generative AI Engineer | AI Specialist | Python Expert**  
 🔗 **Email:** [manasakhtar6@gmail.com](mailto:manasakhtar6@gmail.com)  
-📞 **Phone:** +923200660161  
+📞 **Phone:** +923217363401
 🌐 **Location:** Khanewal, Multan, Punjab, Pakistan
 
 ## About Me 👨‍💻
