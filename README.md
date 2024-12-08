@@ -1,7 +1,7 @@
 # Muhammad Anas Akhtar 🌟
 
 **Generative AI Engineer | AI Specialist | Python Expert**  
-🔗 **Email:** [manasakhtar6@gmail.com](mailto:manasakhtar6@gmail.com)  
+🔗 **Email:** [muhammadanasakhtar19@gmail.com](mailto:muhammadanasakhtar19@gmail.com)  
 📞 **Phone:** +923217363401
 🌐 **Location:** Khanewal, Multan, Punjab, Pakistan
 
@@ -90,7 +90,7 @@ In addition to my professional endeavors, I am deeply passionate about **explori
 ## Reach Out to Me! 📬
 I’m always excited to connect with fellow AI enthusiasts 💬, researchers 🔬, and businesses looking to implement AI solutions 💼. Feel free to reach out via email or LinkedIn!
 
-- 📧 **Email:** [manasakhtar6@gmail.com](mailto:manasakhtar6@gmail.com)
+- 📧 **Email:** [muhammadanasakhtar19@gmail.com](mailto:muhammadanasakhtar19@gmail.com)
 - 🔗 **LinkedIn**: [Muhammad Anas Akhtar](https://www.linkedin.com/in/muhammad-anas-akhtar-78644a253/)
 
 ## Let’s Build the Future of AI Together! 🌍🚀
