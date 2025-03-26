@@ -3,7 +3,7 @@
 **Generative AI Engineer | AI Specialist | Python Expert**  
 🔗 **Email:** [muhammadanasakhtar19@gmail.com](mailto:muhammadanasakhtar19@gmail.com)  
 📞 **Phone:** +923217363401
-🌐 **Location:** Khanewal, Multan, Punjab, Pakistan
+🌐 **Location:** Multan, Punjab, Pakistan
 
 ## About Me 👨‍💻
 Hello! I'm **Muhammad Anas Akhtar**, a passionate **Generative AI Engineer** with a strong background in developing high-performance AI solutions. I have a deep understanding of **Artificial Intelligence 🤖**, **Machine Learning 📊**, and **Deep Learning 🧠**, with specialized skills in **Natural Language Processing (NLP) 💬**, **Computer Vision 👁**, and **Generative AI 🌱**. I hold a **Bachelor’s Degree in Artificial Intelligence 🎓** from **Islamia University of Bahawalpur** (2020-2024).
