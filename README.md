@@ -2,7 +2,7 @@
 
 **Generative AI Engineer | AI Specialist | Python Expert**  
 🔗 **Email:** [muhammadanasakhtar19@gmail.com](mailto:muhammadanasakhtar19@gmail.com)  
-📞 **Phone:** +923217363401
+📞 **Phone:** +923176322881
 🌐 **Location:** Multan, Punjab, Pakistan
 
 ## About Me 👨‍💻
