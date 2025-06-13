@@ -3,7 +3,7 @@
 **AI Specialist | Python | NLP | Generative AI | Chatbots | Agentic AI | LLM Agents**
 
 🔗 **Email:** [muhammadanasakhtar19@gmail.com](mailto:muhammadanasakhtar19@gmail.com)  
-📞 **Phone:** +92-3217363401
+📞 **Phone:** +92-324-7953020
 🌐 **Location:** Multan, Punjab, Pakistan
 
 ## About Me 👨‍💻
