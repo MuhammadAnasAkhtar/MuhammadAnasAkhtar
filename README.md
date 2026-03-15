@@ -71,11 +71,15 @@
     </td>
     <td width="40%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadAnasAkhtar&theme=2077" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAnasAkhtar&theme=2077" width="100%" />
 
-<br><br>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MuhammadAnasAkhtar&theme=dark&bg_color=0d1117&hide_border=true&title_color=9747FF&text_color=ffffff" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadAnasAkhtar&theme=2077" width="100%" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadAnasAkhtar&theme=2077" width="100%" />
 
     </td>
   </tr>
