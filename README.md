@@ -365,7 +365,7 @@
   
   <br><br>
   
-  <!-- ===== FOOTER SECTION - FULLY VISIBLE ===== -->
+  <!-- ===== FOOTER SECTION ===== -->
   <div style="margin: 40px 0 20px 0;">
     <h3 style="color: #9747FF; font-size: 28px; text-shadow: 0 0 20px #9747FF;">✨ <em>Crafted with Precision • Built with Passion</em> ✨</h3>
     <h4 style="color: #ffffff; font-size: 24px; margin-top: 20px;">⭐ From Muhammad Anas Akhtar ⭐</h4>
@@ -381,7 +381,7 @@
   
 </div>
 
-<!-- ===== CUSTOM CSS - KEPT AT VERY END ===== -->
+<!-- ===== CUSTOM CSS ===== -->
 <style>
   /* Google Fonts Import */
   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
