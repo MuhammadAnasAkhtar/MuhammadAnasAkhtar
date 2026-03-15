@@ -71,11 +71,11 @@
     </td>
     <td width="40%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadAnasAkhtar&theme=2077" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAnasAkhtar&layout=donut&hide_border=true&title_color=9747FF&text_color=ffffff&bg_color=0d1117&langs_count=6" width="100%" />
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadAnasAkhtar&theme=2077" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAnasAkhtar&layout=donut-vertical&hide_border=true&title_color=00E0FF&text_color=ffffff&bg_color=0d1117&langs_count=6&count_private=true" width="100%" />
 
 <br>
 
