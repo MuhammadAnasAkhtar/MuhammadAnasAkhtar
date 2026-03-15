@@ -166,11 +166,11 @@
 
 | Category | Technologies |
 |:--------:|:-------------|
-| **Languages** | ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **AI/ML Frameworks** | ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/🤗_HF-FFD700?style=flat-square) ![LangChain](https://img.shields.io/badge/LANGCHAIN-000000?style=flat-square&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LLAMAINDEX-9747FF?style=flat-square) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Vector DBs** | ![Pinecone](https://img.shields.io/badge/PINECONE-000000?style=flat-square&logo=pinecone&logoColor=white) ![ChromaDB](https://img.shields.io/badge/CHROMADB-FF6B6B?style=flat-square) ![Weaviate](https://img.shields.io/badge/WEAVIATE-4583C7?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=flat-square) |
-| **Automation** | ![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white) ![LangFlow](https://img.shields.io/badge/LANGFLOW-000000?style=flat-square) ![CrewAI](https://img.shields.io/badge/CREWAI-9747FF?style=flat-square) |
+| **Languages** | <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> |
+| **AI/ML Frameworks** | <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/🤗_HF-FFD700?style=flat-square" /> <img src="https://img.shields.io/badge/LANGCHAIN-000000?style=flat-square&logo=chainlink&logoColor=white" /> <img src="https://img.shields.io/badge/LLAMAINDEX-9747FF?style=flat-square" /> |
+| **Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> |
+| **Vector DBs** | <img src="https://img.shields.io/badge/PINECONE-000000?style=flat-square&logo=pinecone&logoColor=white" /> <img src="https://img.shields.io/badge/CHROMADB-FF6B6B?style=flat-square" /> <img src="https://img.shields.io/badge/WEAVIATE-4583C7?style=flat-square" /> <img src="https://img.shields.io/badge/FAISS-0052CC?style=flat-square" /> |
+| **Automation** | <img src="https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/LANGFLOW-000000?style=flat-square" /> <img src="https://img.shields.io/badge/CREWAI-9747FF?style=flat-square" /> |
 
 </div>
 
@@ -365,22 +365,28 @@
   
   <br><br>
   
-  <h3 style="color: #9747FF;">✨ <em>Crafted with Precision • Built with Passion</em> ✨</h3>
-  <h4>⭐ From Muhammad Anas Akhtar ⭐</h4>
+  <!-- ===== FOOTER SECTION - FULLY VISIBLE ===== -->
+  <div style="margin: 40px 0 20px 0;">
+    <h3 style="color: #9747FF; font-size: 28px; text-shadow: 0 0 20px #9747FF;">✨ <em>Crafted with Precision • Built with Passion</em> ✨</h3>
+    <h4 style="color: #ffffff; font-size: 24px; margin-top: 20px;">⭐ From Muhammad Anas Akhtar ⭐</h4>
+  </div>
   
-  <div style="margin-top: 20px;">
-    <span style="font-size: 24px; animation: float 3s infinite;">⚡</span>
-    <span style="font-size: 24px; animation: float 4s infinite;">✨</span>
-    <span style="font-size: 24px; animation: float 5s infinite;">🌟</span>
-    <span style="font-size: 24px; animation: float 3.5s infinite;">💫</span>
+  <!-- ===== FLOATING EMOJIS ===== -->
+  <div style="margin-top: 30px; padding: 20px;">
+    <span style="font-size: 32px; display: inline-block; animation: float 3s infinite; margin: 0 15px;">⚡</span>
+    <span style="font-size: 32px; display: inline-block; animation: float 4s infinite; margin: 0 15px;">✨</span>
+    <span style="font-size: 32px; display: inline-block; animation: float 5s infinite; margin: 0 15px;">🌟</span>
+    <span style="font-size: 32px; display: inline-block; animation: float 3.5s infinite; margin: 0 15px;">💫</span>
   </div>
   
 </div>
 
-<!-- ===== CUSTOM CSS ===== -->
+<!-- ===== CUSTOM CSS - KEPT AT VERY END ===== -->
 <style>
+  /* Google Fonts Import */
   @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800;900&family=Poppins:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
   
+  /* Global Styles */
   * {
     font-family: 'Montserrat', 'Poppins', 'Inter', sans-serif;
   }
@@ -390,6 +396,7 @@
     color: #ffffff;
   }
   
+  /* Typography */
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
@@ -402,6 +409,7 @@
     line-height: 1.8;
   }
   
+  /* Animations */
   @keyframes spread {
     0% { transform: scale(0.5); opacity: 0; filter: blur(10px); }
     50% { transform: scale(1.2); opacity: 0.8; filter: blur(0); }
@@ -416,6 +424,7 @@
     100% { transform: translateY(0px) translateX(0px) rotate(360deg); opacity: 0.2; }
   }
   
+  /* Card Styles */
   td {
     transition: all 0.3s ease;
     background: linear-gradient(145deg, #1f2937, #0d1117);
@@ -432,10 +441,12 @@
     border: 1px solid rgba(151, 71, 255, 0.8);
   }
   
+  /* Text Effects */
   h1, h2 {
     text-shadow: 0 0 20px currentColor;
   }
   
+  /* Image Effects */
   img[src*="shields.io"] {
     transition: transform 0.3s ease;
   }
@@ -454,6 +465,7 @@
     margin: 30px 0;
   }
   
+  /* Link Styles */
   a {
     color: #00E0FF;
     text-decoration: none;
@@ -465,8 +477,9 @@
     text-decoration: underline;
   }
   
+  /* Floating Elements */
   span[style*="animation: float"] {
     display: inline-block;
-    margin: 0 10px;
+    margin: 0 15px;
   }
 </style>
