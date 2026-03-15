@@ -327,11 +327,13 @@
 
   <br>
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
+  <br>
 
-  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&size=22&duration=5000&pause=2000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=false&width=850&height=130&lines=%E2%9D%9D+Rise+after+every+fall%2C+push+through+every+struggle%2C;and+show+the+world+that+greatness+exists+within.;Success+is+earned+by+those+who+keep+moving+forward%2C;for+family%2C+and+to+leave+a+mark+that+inspires+others.+%E2%9D%9E" alt="Personal Quote" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&size=18&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Rise+after+every+fall%2C+push+through+every+struggle%2C;and+show+the+world+that+greatness+exists+within.;Success+is+earned+by+those+who+keep+moving+forward%2C;for+family%2C+and+to+leave+a+mark+that+inspires+others." alt="Personal Quote" />
+  <br>
+
+  <img src="https://img.shields.io/badge/——+Muhammad+Anas+Akhtar+——-FFD700?style=for-the-badge&labelColor=0d1117&color=FFD700" alt="Quote Author" />
 
   <br>
 
