@@ -67,6 +67,12 @@
 - ⬤ **Fine-tuned LLaMA-2 & OpenAI models** for enterprise clients
 - ⬤ **Deployed AI systems** on AWS SageMaker & GCP Vertex AI
 - ⬤ **Built agentic workflows** using LangChain & CrewAI
+- ⬤ **Served international clients** across 🇺🇸 USA & 🇦🇹 Austria as Independent Consultant
+- ⬤ **Engineered ICD & CPT Predictor** — AI tool for medical billing automation
+- ⬤ **Developed multi-agent systems** with CrewAI, AutoGen & LangGraph
+- ⬤ **Integrated vector databases** (Pinecone, ChromaDB, FAISS) for semantic search at scale
+- ⬤ **Built Computer Vision pipelines** for real-time object detection & image captioning
+- ⬤ **Completed 5+ certifications** from DeepLearning.AI, IBM, Coursera & iNeuron
 
     </td>
     <td width="40%" align="center">
@@ -324,6 +330,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%" />
 
   <br><br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&size=18&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Rise+after+every+fall%2C+push+through+every+struggle%2C;and+show+the+world+that+greatness+exists+within.;Success+is+earned+by+those+who+keep+moving+forward%2C;for+family%2C+and+to+leave+a+mark+that+inspires+others." alt="Personal Quote" />
+
+  <br>
 
   <h3>✨ <em>Crafted with Precision • Built with Passion</em> ✨</h3>
   <h4>⭐ From Muhammad Anas Akhtar ⭐</h4>
