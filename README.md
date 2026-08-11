@@ -6,10 +6,10 @@
 **Building production-grade AI systems that solve real enterprise problems**
 
 [![Email](https://img.shields.io/badge/muhammadanasakhtar19%40gmail.com-0A0A0A?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0A0A0A)](mailto:muhammadanasakhtar19@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0A0A0A)](www.linkedin.com/in/muhammadanasakhtar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0A0A0A)](https://www.linkedin.com/in/muhammadanasakhtar/)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0A0A0A)](https://github.com/MuhammadAnasAkhtar)
 [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-0A0A0A?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=0A0A0A)](https://huggingface.co/ANASAKHTAR)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=FFFFFF&labelColor=0A0A0A)](https://muhammad-anas-akhtar-m8xc4yv.gamma.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=FFFFFF&labelColor=0A0A0A)](https://muhammad-anas-akhtar-m8xc4yv.gamma.site/muhammadanasakhtar)
 
 ![Pakistan](https://img.shields.io/badge/Pakistan-00703C?style=flat-square&logo=googlemaps&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Opportunities-Remote%20%7C%20Relocation%20%7C%20Visa%20Sponsorship-0A66C2?style=flat-square)
@@ -141,8 +141,8 @@ I'm open to **full-time roles, consulting engagements, and research collaboratio
 |---|---|
 | Email | muhammadanasakhtar19@gmail.com |
 | Phone | +92-324-7953020 |
-| LinkedIn | [linkedin.com/in/muhammad-anas-akhtar-78644a253](https://www.linkedin.com/in/muhammad-anas-akhtar-78644a253/) |
-| Portfolio | [muhammad-anas-akhtar-m8xc4yv.gamma.site](https://muhammad-anas-akhtar-m8xc4yv.gamma.site/) |
+| LinkedIn | [linkedin.com/in/muhammadanasakhtar](https://www.linkedin.com/in/muhammadanasakhtar/) |
+| Portfolio | [muhammad-anas-akhtar-m8xc4yv.gamma.site/muhammadanasakhtar](https://muhammad-anas-akhtar-m8xc4yv.gamma.site/muhammadanasakhtar) |
 | Hugging Face | [huggingface.co/ANASAKHTAR](https://huggingface.co/ANASAKHTAR) |
 
 ---
