@@ -6,7 +6,7 @@
 **Building production-grade AI systems that solve real enterprise problems**
 
 [![Email](https://img.shields.io/badge/muhammadanasakhtar19%40gmail.com-0A0A0A?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=0A0A0A)](mailto:muhammadanasakhtar19@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0A0A0A)](https://www.linkedin.com/in/muhammad-anas-akhtar-78644a253/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0A0A0A)](www.linkedin.com/in/muhammadanasakhtar/)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=0A0A0A)](https://github.com/MuhammadAnasAkhtar)
 [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-0A0A0A?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=0A0A0A)](https://huggingface.co/ANASAKHTAR)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=FFFFFF&labelColor=0A0A0A)](https://muhammad-anas-akhtar-m8xc4yv.gamma.site/)
